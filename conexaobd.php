@@ -1,9 +1,9 @@
 ﻿<?php
 session_start();
 header("Content-type:text/html;charset=utf8");
-define("server", "mysql:host=localhost;dbname=bdcarros");
+define("server", "mysql:host=localhost;dbname=kingcar");
 define('user', 'root');
-define('senha', ''); //2m56ABz5FnAm7N23
+define('senha', 'root'); //2m56ABz5FnAm7N23
 
 
 
